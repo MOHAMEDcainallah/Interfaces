@@ -5,8 +5,8 @@ public class testInterfaces {
         Chien chien = new Chien();
         Lion lion = new Lion();
         Serpent serpent = new Serpent();
-        chien.crier();
-        serpent.bouger();
+        chien.manger();
+        serpent.manger();
         lion.manger();
     }
 }
